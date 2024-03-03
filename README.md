@@ -10,8 +10,6 @@
   <img src="https://profile-counter.glitch.me/CYBERMEDIC1/count.svg?"  />
 </div>
 ###
-<img src="https://raw.githubusercontent.com/CYBERMEDIC1/CYBERMEDIC1/output/snake.svg" alt="Snake animation" />
-###
 <div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -32,22 +30,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-## CURRENT PROJECTS I AM WORKING ON
-- https://github.com/CYBERMEDIC1/OSINT-Notes
-- https://github.com/CYBERMEDIC1/HACKING-NOTES-and-TOOLS
-- https://github.com/CYBERMEDIC1/SPLUNK-notes
-- https://github.com/CYBERMEDIC1/Basic-port-scanner
-# STUFF I ENJOY
+# THINGS I TAKE PLEASURE IN WORKING ON  
 - Network scanning
 - Network mapping
-- Sandbox research
 - Vulnerability scanning
 - Malware analysis
 - Packet sniffing
 - Hash cracking
 - Credential harvesting
 - Password cracking
-- ARP poisoning
 - WIFI scanning / Harvesting
 - WIFI password cracking
 - Incident logs
@@ -56,10 +47,9 @@
 - Firewall configurations
 - Directory brute forcing
 - Custom word list generations
-- Security incident event managers
 - Virtual private networks
 - Exploit research
 - OSINT
-- Long walks on the beach
-- Margaritas and Long walks on the beach
-- Many more not listed, or to come
+- Gun Ranges
+- Fishing 
+- Numerous others, unlisted or yet to be explored.
